@@ -19,4 +19,4 @@ Incase you come across any bugs feel free to raise the issue.
 Incase you have any queries, contributions, comments or correction kindly contact me at ninahb746@gmail.com
 
 ## License
-Under the rules of MIT License.
+Under the rules of MIT License.   
