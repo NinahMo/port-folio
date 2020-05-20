@@ -22,3 +22,10 @@ body {
     color: aliceblue;
     font-size: larger;
 }
+.card{
+    float: right;
+    background: transparent;
+    color: black;
+    font-weight: bolder;
+    font-size: 1ch;
+}
