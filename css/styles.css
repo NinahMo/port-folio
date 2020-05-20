@@ -6,6 +6,7 @@ body {
     padding: 25px;
     color: white;
     height: 150px;
+    font-weight: bold;
   }
 .section1{
     background-image: url(./images/portfolio.bg.png) no-repeat;
