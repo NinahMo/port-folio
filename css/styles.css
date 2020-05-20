@@ -1,0 +1,16 @@
+body {
+    background-image: url(./images/portfolio.bg.png);
+}
+.first {
+    text-align: center;
+    padding: 25px;
+    color: black;
+    height: 150px;
+  }
+.section1{
+    background-image: url(./images/portfolio.bg.png) no-repeat;
+    padding: 50;
+    margin: 0;
+    position: relative;
+    text-align: center;
+}
